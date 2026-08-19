@@ -27,7 +27,7 @@
     nome: "SICOOB_Iniciativas_Explorer_Carbon_v33.html",
     notas: "Descreva aqui as novidades desta versão.",
     data: "2026-08-19",
-    obrigatoria: false   // true = aviso não pode ser dispensado (bloqueante)
+    obrigatoria: true   // true = aviso não pode ser dispensado (bloqueante)
   };
 
   // Entrega o manifesto ao HTML (função definida na página).
