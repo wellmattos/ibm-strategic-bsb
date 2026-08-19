@@ -22,7 +22,7 @@
 
 (function () {
   var info = {
-    version: 33,
+    version: 34,
     url: "https://ibm.box.com/s/khf0lgzv52iy4blpm0gmxaphvpkfnudn",
     nome: "SICOOB_Iniciativas_Explorer_Carbon_v33.html",
     notas: "Descreva aqui as novidades desta versão.",
