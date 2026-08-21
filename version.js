@@ -22,10 +22,10 @@
 
 (function () {
   var info = {
-    version: 38,
+    version: 39,
     url: "https://ibm.box.com/s/khf0lgzv52iy4blpm0gmxaphvpkfnudn",
-    nome: "SICOOB_Iniciativas_Explorer_Carbon_v38.html",
-    notas: "Correção do bug durante a atualização do nome da iniciativa.",
+    nome: "SICOOB_Iniciativas_Explorer_Carbon_v39.html",
+    notas: "Correção do bug durante a atualização dos dados da iniciativa.",
     data: "2026-08-20",
     obrigatoria: true   // true = aviso não pode ser dispensado (bloqueante)
   };
